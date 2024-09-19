@@ -38,11 +38,11 @@ images: {
     </div>
 
     <div class="row-span-3 row-start-3 w-full h-full md:row-span-3">
-      <div class="justify-center items-center mt-0 mx-0">
+      <div class="flex justify-center items-center mt-0 mx-0">
         <img
           :src="images"
           alt="Picture of women using filters on Instagram" 
-          class="w-10/12 h-10/12 mx-auto md:w-12/12 md:h-12/12 md:mx-0" />
+          class="w-10/12 h-10/12 mx-auto md:w-8/12 md:h-8/12 md:mx-0" />
        </div>
     </div>
 </div>

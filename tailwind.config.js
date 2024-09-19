@@ -17,6 +17,7 @@ module.exports = {
         'vector-id-05': 'url(/assets/vector00.svg)',
         'vector-id-050': 'url(/assets/vector01.svg)',
         'line': 'url(/assets/line.svg)',
+        'vector-id-051':'url(/assets/vector04.svg)',
       },
 
       fontFamily: {

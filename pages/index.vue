@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import CaptureAudience from "./capture-audience.vue";
+import presaleEvent from "./presale-event.vue";
 </script>
 
 <template>
@@ -13,6 +14,9 @@ import CaptureAudience from "./capture-audience.vue";
   />
 
   <!-- SECTION 1 COUNTER -->
+ <presaleEvent/>
+
+
 
   <!-- SECTION 2 -->
   <div class="default-section-p bg-[#D15D52] text-white ">
